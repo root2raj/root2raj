@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![root2raj's github stats](https://github-readme-stats.vercel.app/api?username=root2raj)](https://github.com/root2raj)
+
 <!--
 **root2raj/root2raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
